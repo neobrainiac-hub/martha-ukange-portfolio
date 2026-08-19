@@ -133,4 +133,4 @@ Drag the `dist/` folder (after `npm run build`) to [app.netlify.com/drop](https:
 
 ---
 
-*Built with care for Martha Ukange's scholarship application and long-term professional portfolio.*
+*Built with care for Martha Ukange's long-term professional portfolio.*
